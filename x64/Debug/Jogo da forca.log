@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+C:\Users\joabe\Documents\MeusAplicativos\Jogo da forca\Jogo da forca\Origem.cpp(25,53): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+C:\Users\joabe\Documents\MeusAplicativos\Jogo da forca\Jogo da forca\Origem.cpp(60,32): warning C4267: '=': conversão de 'size_t' para 'int', possível perda de dados
+  Jogo da forca.vcxproj -> C:\Users\joabe\Documents\MeusAplicativos\Jogo da forca\x64\Debug\Jogo da forca.exe
